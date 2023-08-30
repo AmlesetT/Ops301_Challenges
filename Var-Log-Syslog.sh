@@ -7,16 +7,16 @@
 # Reason:                       It is important to be able to adjust the time/date when logs are automated.
 
 # Declaration of variables
-year='date +%Y'
+year=`date +%Y`
 echo $year
-month='date +%m'
+month=`date +%m`
 echo $month
-day='date +%d'
+day=`date +%d`
 echo $day
 
-hour='date +%H'
-minute='date +%M'
-second='date +%S'
+hour=`date +%H`
+minute=`date +%M`
+second=`date +%S`
 
 echo "Current Date: $day-$month-$year"
 echo "Current Time: $hour:$minute:$second"
@@ -27,7 +27,7 @@ cat testfile.txt
 
 
 # the >> append
-echo "My new string with date: 'date'" >> testfile.txt
+echo "My new string with date: `date`" >> testfile.txt
 echo "Appended file: "
 cat testfile.txt
 
