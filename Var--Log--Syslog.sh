@@ -24,13 +24,14 @@ echo $second
 echo "Current Date: $day-$month-$year"
 echo "Current Time: $hour:$minute:$second"
 
+# how to row append
 
+# first create a file and add some lines to it
 echo "Original file before append: "
 cat testfile.txt
 
-
 # the >> append
-echo "My new string with date: `date`" >> testfile.txt
+echo "My new string with date: `date`" >>testfile.txt
 echo "Appended file: "
 cat testfile.txt
 
