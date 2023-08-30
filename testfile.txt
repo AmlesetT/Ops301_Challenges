@@ -1,1 +1,1 @@
-My new string with date: 'date'
+My new string with date: `date`
