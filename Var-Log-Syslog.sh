@@ -15,8 +15,11 @@ day=`date +%d`
 echo $day
 
 hour=`date +%H`
+echo $hour
 minute=`date +%M`
+echo $minute
 second=`date +%S`
+echo $second
 
 echo "Current Date: $day-$month-$year"
 echo "Current Time: $hour:$minute:$second"
