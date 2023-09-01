@@ -2,23 +2,23 @@
 Collection of my Ops 301 Challenges
 
 ## Table of Contents
-[Challenge 01]()
+[Class 01 Challenge](No Challenge today)
 
-[Challenge 02]()
+[Class 02 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/Var--Log--Syslog.sh)
 
-[Challenge 03]()
+[Class 03 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/change_permissions.sh)
 
-[Challenge 04]()
+[Class 04 Challenge]()
 
-[Challenge 05]()
+[Class 05 Challenge]()
 
-[Challenge 06]()
+[Class 06 Challenge]()
 
-[Challenge 07]()
+[Class 07 Challenge]()
 
-[Challenge 08]()
+[Class 08 Challenge]()
 
-[Challenge 09]()
+[Class 09 Challenge]()
 
-[Challenge 10]()
+[Class 10 Challenge]()
 
