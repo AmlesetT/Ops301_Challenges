@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script Name:                  Ops 301 - Challenge 01
+# Script Name:                  Ops 301 - Challenge 02
 # Author:                       Amleset Tesfamariam
 # Date of latest revision:      08/29/2023
 # Purpose:                      To append the date and time on a bash script.
