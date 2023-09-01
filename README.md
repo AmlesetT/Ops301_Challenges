@@ -8,7 +8,7 @@ Collection of my Ops 301 Challenges
 
 [Class 03 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/change_permissions.sh)
 
-[Class 04 Challenge]()
+[Class 04 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/bash-conditionals.sh)
 
 [Class 05 Challenge]()
 
