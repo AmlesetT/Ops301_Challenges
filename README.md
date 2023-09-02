@@ -10,7 +10,7 @@ Collection of my Ops 301 Challenges
 
 [Class 04 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/bash-conditionals.sh)
 
-[Class 05 Challenge]()
+[Class 05 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/clearing_logs.sh)
 
 [Class 06 Challenge]()
 
