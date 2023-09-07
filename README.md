@@ -14,7 +14,7 @@ Collection of my Ops 301 Challenges
 
 [Class 06 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/bash_in_python)
 
-[Class 07 Challenge]()
+[Class 07 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/directory_creation)
 
 [Class 08 Challenge]()
 
