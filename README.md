@@ -12,7 +12,7 @@ Collection of my Ops 301 Challenges
 
 [Class 05 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/clearing_logs.sh)
 
-[Class 06 Challenge]()
+[Class 06 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/bash_in_python)
 
 [Class 07 Challenge]()
 
