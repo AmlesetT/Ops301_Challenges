@@ -13,7 +13,8 @@
 import os
 
 # At least 3 variable must be declared and reference in Python
-print(f"Current User: {user}")
+print
+(f"Current User: {user}")
 print(f"Current Date: {date}")
 print(f"Current Time: {time}")
 
