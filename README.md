@@ -24,7 +24,7 @@ Collection of my Ops 301 Challenges
 
 [Class 11 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/psutil.py)
 
-[Class 12 Challenge]()
+[Class 12 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/python_requests_library.py)
 
 [Class 13 Challenge]()
 
