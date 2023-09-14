@@ -26,6 +26,6 @@ Collection of my Ops 301 Challenges
 
 [Class 12 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/python_requests_library.py)
 
-[Class 13 Challenge]()
+[Class 13 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/powershell_ad_automation.sh)
 
 [Class 14 Challenge]()
