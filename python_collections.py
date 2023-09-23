@@ -9,17 +9,20 @@
 
 # Declaration of variables
 
+# Assigning a list of ten string elements
+my_list = ["carrot", "potato", "celery", "tomato", "garlic", "pepper", "salt", "spices", "broth", "meat"]
 
+# Print the fourth element of the list (index 3)
+print("Fourth Element:", my_list[3])
 
+# Print the sixth through tenth element of the list (indices 5 to 9)
+print("Sixth through Tenth Elements:", my_list[5:10])
 
+# Change the value of the seventh element to "onion"
+my_list[6] = "onion"
 
-
-
-
-
-
-
-
+# Print the updated list
+print("Updated List:", my_list)
 
 
 # End
