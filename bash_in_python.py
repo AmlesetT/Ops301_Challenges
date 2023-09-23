@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env python3
 
 # Script Name:                  Ops 301 - Challenge 06
 # Author:                       Amleset Tesfamariam/ChatGPT
@@ -18,12 +18,16 @@ print(f"Current Date: {date}")
 print(f"Current Time: {time}")
 
 # The Python function print () must be used at least 3 times and include execution of the following bash commands
+
+# First Execution 
 whoami_result = os.popen('whoami').read()
 print(f"Current User: {whoami_result}")
 
+# Second Execution 
 ip_a_result = os.popen('ip a').read()
 print(ip_a_result)
 
+# Third Execution
 lshw_result = os.popen('lshw -short').read()
 print(lshw_result)
 
