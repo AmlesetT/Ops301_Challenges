@@ -18,7 +18,7 @@ Collection of my Ops 301 Challenges
 
 [Class 08 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/python_collections.py)
 
-[Class 09 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/python_conditional_statements)
+[Class 09 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/python_conditional_statements.py)
 
 [Class 10 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/python_file_handling)
 
