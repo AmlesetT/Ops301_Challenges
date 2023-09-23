@@ -16,7 +16,7 @@ Collection of my Ops 301 Challenges
 
 [Class 07 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/directory_creation.py)
 
-[Class 08 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/python_collections)
+[Class 08 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/python_collections.py)
 
 [Class 09 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/python_conditional_statements)
 
