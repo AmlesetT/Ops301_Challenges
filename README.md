@@ -28,4 +28,4 @@ Collection of my Ops 301 Challenges
 
 [Class 13 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/powershell_ad_automation.sh)
 
-[Class 14 Challenge]()
+[Class 14 Challenge](https://github.com/AmlesetT/Ops301_Challenges/blob/main/python_malware_analysis.py)
