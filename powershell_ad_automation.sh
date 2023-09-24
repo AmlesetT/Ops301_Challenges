@@ -10,16 +10,27 @@
 # Declaration of variables
 
 
+# Import Active Directory module
+Import-Module ActiveDirectory
 
+# Define the new user's information
+$FirstName = "Franz"
+$LastName = "Ferdinand"
+$DisplayName = "$FirstName $LastName"
+$SamAccountName = "ferdi"
+$UserPrincipalName = "ferdi@GlobeXpower.com"
+$Office = "Springfield, OR"
+$Department = "TPS Department"
+$Title = "TPS Reporting Lead"
 
+# Define the AD Path where the new user will be created
+$ADPath = "OU=Users,DC=YourDomain,DC=com"
 
+# Create a secure password for the new user
+$SecurePassword = ConvertTo-SecureString "SolarWinds123" -AsPlainText -Force
 
-
-
-
-
-
-
+# Create the new user in AD
+New-ADUser -Name $DisplayName -GivenName $FirstName -Surname $LastName -DisplayName $DisplayName -SamAccountName $SamAccountName -UserPrincipalName $UserPrincipalName -Office $Office -Department $Department -Title $Title -AccountPassword $SecurePassword -Path $ADPath -Enabled $true
 
 
 # End
