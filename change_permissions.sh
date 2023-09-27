@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script Name:                  Ops 301 - Challenge 03
-# Author:                       Amleset Tesfamariam/ChatGPT
+# Author:                       Amleset Tesfamariam, CF Ops lecture 301, ChatGPT
 # Date of latest revision:      08/30/2023
 # Purpose:                      To change system file permissions on a bash script.
 # Reason:                       It is important to be able to change file permissions and access the directory as an administrator.
