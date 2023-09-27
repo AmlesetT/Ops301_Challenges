@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Script Name:                  Ops 301 - Challenge 09
-# Author:                       Amleset Tesfamariam
+# Author:                       Amleset Tesfamariam, CF Ops lecture 301
 # Date of latest revision:      09/07/2023
 # Purpose:                      To create a script in Python with certain logical conditions, including equals, not equals, less than, less than or equal to, greater than, and greater than or equal to.
 # Reason:                       It is imperative to understand how to use these functions in relation to coding in Python.
