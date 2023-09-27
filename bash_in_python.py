@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Script Name:                  Ops 301 - Challenge 06
-# Author:                       Amleset Tesfamariam/ChatGPT
+# Author:                       Amleset Tesfamariam, CF Ops lecture 301, ChatGPT
 # Date of latest revision:      09/04/2023
 # Purpose:                      To create a script in Python using bash commands.
 # Reason:                       It is useful to be able to code in multiple languages using different commands.
