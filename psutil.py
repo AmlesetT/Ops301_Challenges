@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Script Name:                  Ops 301 - Challenge 11
-# Author:                       Amleset Tesfamariam, Google, ChatGPT
+# Author:                       Amleset Tesfamariam, CF Ops lecture 301, Google, ChatGPT
 # Date of latest revision:      09/11/2023
 # Purpose:                      To create a script in Python that fetches certain information using Psutil.
 # Reason:                       It is important to quickly and efficiently use code to pull necessary information.
