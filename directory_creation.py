@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Script Name:                  Ops 301 - Challenge 07
-# Author:                       Amleset Tesfamariam
+# Author:                       Amleset Tesfamariam, CF Ops lecture 301
 # Date of latest revision:      09/05/2023
 # Purpose:                      To create a script in Python that displays all directories and files within.
 # Reason:                       Finding and listing directories/files can be helpful for troubleshooting.
