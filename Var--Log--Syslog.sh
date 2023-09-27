@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script Name:                  Ops 301 - Challenge 02
-# Author:                       Amleset Tesfamariam
+# Author:                       Amleset Tesfamariam, CF Ops lecture 301
 # Date of latest revision:      08/29/2023
 # Purpose:                      To append the date and time on a bash script.
 # Reason:                       It is important to be able to adjust the time/date when logs are automated.
